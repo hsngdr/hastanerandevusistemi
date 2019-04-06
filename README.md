@@ -1,2 +1,2 @@
-# c-hastanerandevusistemi
-deneme
+# hastanerandevusistemi
+deneme amacli c sharpta olusturlumustur

@@ -1,2 +1,2 @@
 # hastanerandevusistemi
-deneme amacli c sharpta olusturlumustur
+deneme amacli c sharpta olusturulmustur
